@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ciaran O Nuallain\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ciaran O Nuallain\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_commit_this_to_memory.-1222824110.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory" t="IncludeFlat">
+      <e p="commit_this_to_memory.sln" t="IncludeFlat" />
+      <e p="cttm" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cttm.csproj" t="IncludeRecursive" />
+        <e p="io_util.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="cttm.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

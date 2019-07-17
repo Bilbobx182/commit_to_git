@@ -1,0 +1,11 @@
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\bin\Debug\netcoreapp2.1\cttm.deps.json
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\bin\Debug\netcoreapp2.1\cttm.runtimeconfig.json
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\bin\Debug\netcoreapp2.1\cttm.runtimeconfig.dev.json
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\bin\Debug\netcoreapp2.1\cttm.dll
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\bin\Debug\netcoreapp2.1\cttm.pdb
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\obj\Debug\netcoreapp2.1\cttm.csprojAssemblyReference.cache
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\obj\Debug\netcoreapp2.1\cttm.csproj.CoreCompileInputs.cache
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\obj\Debug\netcoreapp2.1\cttm.AssemblyInfoInputs.cache
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\obj\Debug\netcoreapp2.1\cttm.AssemblyInfo.cs
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\obj\Debug\netcoreapp2.1\cttm.dll
+C:\Users\Ciaran O Nuallain\RiderProjects\commit_this_to_memory\cttm\obj\Debug\netcoreapp2.1\cttm.pdb
