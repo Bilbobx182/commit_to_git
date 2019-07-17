@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56fbb8a9-7ff2-4385-8893-e507dce7c234" name="Default Changelist" comment="" />
+    <list default="true" id="56fbb8a9-7ff2-4385-8893-e507dce7c234" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cttm/bin/Debug/netcoreapp2.1/cttm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/cttm/bin/Debug/netcoreapp2.1/cttm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cttm/bin/Debug/netcoreapp2.1/cttm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cttm/bin/Debug/netcoreapp2.1/cttm.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cttm/io_util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cttm/io_util.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cttm/obj/Debug/netcoreapp2.1/cttm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/cttm/obj/Debug/netcoreapp2.1/cttm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cttm/obj/Debug/netcoreapp2.1/cttm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cttm/obj/Debug/netcoreapp2.1/cttm.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +33,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cttm/io_util.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
               <folding>
-                <marker date="1563391442943" expanded="true" signature="6:110" ph="..." />
-                <marker date="1563391442943" expanded="true" signature="127:1191" ph="{...}" />
-                <marker date="1563391442943" expanded="true" signature="154:1189" ph="{...}" />
-                <marker date="1563391442943" expanded="true" signature="230:554" ph="{...}" />
-                <marker date="1563391442943" expanded="true" signature="640:1183" ph="{...}" />
-                <marker date="1563391442943" expanded="true" signature="908:1147" ph="{...}" />
+                <marker date="1563392220261" expanded="true" signature="6:110" ph="..." />
+                <marker date="1563392220261" expanded="true" signature="127:1003" ph="{...}" />
+                <marker date="1563392220261" expanded="true" signature="154:1001" ph="{...}" />
+                <marker date="1563392220261" expanded="true" signature="281:547" ph="{...}" />
+                <marker date="1563392220261" expanded="true" signature="639:995" ph="{...}" />
+                <marker date="1563392220261" expanded="true" signature="867:955" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,6 +57,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/cttm/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,6 +84,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -147,12 +157,12 @@
       <workItem from="1563121868771" duration="763000" />
       <workItem from="1563209796187" duration="658000" />
       <workItem from="1563212531707" duration="323000" />
-      <workItem from="1563382238501" duration="2295000" />
+      <workItem from="1563382238501" duration="3072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5964000" />
+    <option name="totallyTimeSpent" value="6741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,13 +177,13 @@
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18327118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18327118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39915523" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -183,7 +193,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32946146" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.30939808" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,15 +342,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cttm/io_util.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
           <folding>
-            <marker date="1563391442943" expanded="true" signature="6:110" ph="..." />
-            <marker date="1563391442943" expanded="true" signature="127:1191" ph="{...}" />
-            <marker date="1563391442943" expanded="true" signature="154:1189" ph="{...}" />
-            <marker date="1563391442943" expanded="true" signature="230:554" ph="{...}" />
-            <marker date="1563391442943" expanded="true" signature="640:1183" ph="{...}" />
-            <marker date="1563391442943" expanded="true" signature="908:1147" ph="{...}" />
+            <marker date="1563392220261" expanded="true" signature="6:110" ph="..." />
+            <marker date="1563392220261" expanded="true" signature="127:1003" ph="{...}" />
+            <marker date="1563392220261" expanded="true" signature="154:1001" ph="{...}" />
+            <marker date="1563392220261" expanded="true" signature="281:547" ph="{...}" />
+            <marker date="1563392220261" expanded="true" signature="639:995" ph="{...}" />
+            <marker date="1563392220261" expanded="true" signature="867:955" ph="{...}" />
           </folding>
         </state>
       </provider>

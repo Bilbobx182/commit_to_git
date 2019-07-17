@@ -10,30 +10,27 @@ namespace cttm
     public class io_util
     {
         public static WebClient web_client;
+        private static GitHubClient github_client;
 
         public io_util()
         {
             web_client = new WebClient();
+            github_client = new GitHubClient(new ProductHeaderValue("commit_to_git"));
 
-            var task = print_projects("https://github.com/bilbobx182");
-            task.Wait(); // Blocks current thread until GetFooAsync task completes
-            // For pedagogical use only: in general, don't do this!
+            var task = print_projects("bilbobx182");
+            task.Wait();
             var result = task.Result;
         }
     
-        private async Task<IReadOnlyList<Repository>> print_projects(string url)
+        private async Task<Dictionary<string, string>> print_projects(string username)
         {
-            var github = new GitHubClient(new ProductHeaderValue("MyAmazingApp"));
-            var ii = await github.User.Get("bilbobx182");
-            var repos = await github.Repository.GetAllForUser("bilbobx182");
-            foreach (var repo in repos)
-            {
-                var lastpush = repo.UpdatedAt.ToString();
-                var reponame = repo.FullName;
-                Console.WriteLine(lastpush);
-                Console.WriteLine(lastpush + " " + reponame);
+            var repos = await github_client.Repository.GetAllForUser(username);
+            Dictionary<string, string> repo_info = new Dictionary<string, string>();
+            
+            foreach (var repo in repos) {
+                repo_info.Add(repo.FullName,repo.UpdatedAt.ToString());
             }
-            return repos;
+            return repo_info;
         }
     }
 }
