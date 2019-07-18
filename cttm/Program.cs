@@ -7,8 +7,9 @@ namespace cttm
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             io_util io_object = new io_util();
+            io_object.write_dictionary_to_file("aa.txt",io_object.get_user_projects("bilbobx182"));
+            Console.WriteLine("DONE");
         }
     }
 }
